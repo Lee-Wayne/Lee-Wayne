@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, which is popular all around the globe, ha
 - 🌱 I’m currently learning some basic knowledge, lay a solid foundation for future AI learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : you can share your idea in 2673945283@qq.com
+- 📫 How to reach me : you can share your idea in leewaynezzz@qq.com
 
 <!---
 Lee-Wayne/Lee-Wayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
